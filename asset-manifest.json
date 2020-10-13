@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/https//:portrick25.github.io/whatsInHeaven/static/css/main.eab6b7df.chunk.css",
+    "main.js": "/https//:portrick25.github.io/whatsInHeaven/static/js/main.f9c61489.chunk.js",
+    "main.js.map": "/https//:portrick25.github.io/whatsInHeaven/static/js/main.f9c61489.chunk.js.map",
+    "runtime-main.js": "/https//:portrick25.github.io/whatsInHeaven/static/js/runtime-main.a15f3162.js",
+    "runtime-main.js.map": "/https//:portrick25.github.io/whatsInHeaven/static/js/runtime-main.a15f3162.js.map",
+    "static/js/2.a29aca7f.chunk.js": "/https//:portrick25.github.io/whatsInHeaven/static/js/2.a29aca7f.chunk.js",
+    "static/js/2.a29aca7f.chunk.js.map": "/https//:portrick25.github.io/whatsInHeaven/static/js/2.a29aca7f.chunk.js.map",
+    "index.html": "/https//:portrick25.github.io/whatsInHeaven/index.html",
+    "precache-manifest.8f82d80fd2a517b6483a64f1ff269c61.js": "/https//:portrick25.github.io/whatsInHeaven/precache-manifest.8f82d80fd2a517b6483a64f1ff269c61.js",
+    "service-worker.js": "/https//:portrick25.github.io/whatsInHeaven/service-worker.js",
+    "static/css/main.eab6b7df.chunk.css.map": "/https//:portrick25.github.io/whatsInHeaven/static/css/main.eab6b7df.chunk.css.map",
+    "static/js/2.a29aca7f.chunk.js.LICENSE.txt": "/https//:portrick25.github.io/whatsInHeaven/static/js/2.a29aca7f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a15f3162.js",
+    "static/js/2.a29aca7f.chunk.js",
+    "static/css/main.eab6b7df.chunk.css",
+    "static/js/main.f9c61489.chunk.js"
+  ]
+}
